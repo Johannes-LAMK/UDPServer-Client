@@ -1,0 +1,6 @@
+C:\Users\Johannes\source\repos\DistributedSystems2020\Receiver\bin\Release\Receiver.exe.config
+C:\Users\Johannes\source\repos\DistributedSystems2020\Receiver\bin\Release\Receiver.exe
+C:\Users\Johannes\source\repos\DistributedSystems2020\Receiver\bin\Release\Receiver.pdb
+C:\Users\Johannes\source\repos\DistributedSystems2020\Receiver\obj\Release\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\DistributedSystems2020\Receiver\obj\Release\Receiver.exe
+C:\Users\Johannes\source\repos\DistributedSystems2020\Receiver\obj\Release\Receiver.pdb
